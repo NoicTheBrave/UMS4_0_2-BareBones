@@ -4,7 +4,7 @@ version = "4.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
-file = "index.toml"
+file = "https://github.com/NoicTheBrave/UMS4_0_2-BareBones/blob/main/index.toml"
 hash-format = "sha256"
 hash = "5a1e3008f0533af3cc9968731e880b17d85189a0068a8c989877c3a4690d14e3"
 
